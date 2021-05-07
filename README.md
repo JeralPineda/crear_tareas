@@ -1,4 +1,4 @@
-# Aplicación de Consola
+# Aplicación de Consola con NodeJS
 
 -  App para crear tareas desde la consola
 
